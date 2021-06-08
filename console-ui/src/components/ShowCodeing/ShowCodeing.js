@@ -129,7 +129,7 @@ public class ConfigController {
 * Demo for Nacos
 * pom.xml
     <dependency>
-        <groupId>com.alibaba.nacos</groupId>
+        <groupId>cn.hejinyo.nacos</groupId>
         <artifactId>nacos-client</artifactId>
         <version>\${version}</version>
     </dependency>
